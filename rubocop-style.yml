@@ -1,0 +1,8 @@
+# Document classes and non-namespace modules.
+Style/Documentation:
+  Enabled: false
+
+# Check quotes usage according to lint rule below.
+Style/StringLiterals:
+  Enabled: true
+  EnforcedStyle: double_quotes

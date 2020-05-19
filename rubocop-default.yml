@@ -1,0 +1,18 @@
+require:
+  - rubocop-performance
+  - rubocop-rspec
+  - rubocop-rails
+
+inherit_from:
+  - rubocop-all.yml
+  - rubocop-bundler.yml
+  - rubocop-gemspec.yml
+  - rubocop-layout.yml
+  - rubocop-lint.yml
+  - rubocop-metrics.yml
+  - rubocop-migrations.yml
+  - rubocop-naming.yml
+  - rubocop-performance.yml
+  - rubocop-rails.yml
+  - rubocop-rspec.yml
+  - rubocop-style.yml

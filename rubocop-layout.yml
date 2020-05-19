@@ -1,0 +1,5 @@
+# Limit lines to 120 characters.
+Layout/LineLength:
+  Enabled: true
+  Max: 120
+  IgnoredPatterns: ['\s#\srubocop']
