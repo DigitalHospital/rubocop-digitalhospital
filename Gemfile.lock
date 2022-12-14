@@ -19,7 +19,7 @@ GEM
     parallel (1.19.2)
     parser (3.1.2.1)
       ast (~> 2.4.1)
-    rack (2.2.3)
+    rack (2.2.4)
     rainbow (3.1.1)
     rake (13.0.6)
     rexml (3.2.5)
